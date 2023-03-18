@@ -19,7 +19,7 @@ API so that the `fetch` requests on the frontend work successfully.
 The React application is in the `client` directory. To set it up, from the root
 directory, run:
 
-```console
+````console
 $ npm install --prefix client
 ```
 
